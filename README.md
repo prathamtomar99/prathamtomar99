@@ -18,10 +18,16 @@
 ---
 
 ### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- **Languages:** C++, Python, JavaScript  
-- **Core Skills:** DSA, OOP, Problem Solving  
-- **Tools & Platforms:** Git, VS Code, Linux, LeetCode, Codeforces  
+---
+
+## 🏆 GitHub Trophy Wall
+[![trophy](https://github-profile-trophy.vercel.app/?username=prathamtomar99&theme=algolia&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -35,7 +41,9 @@
 ### 🏆 Achievements & Badges
 
 - 🦈 **Pull Shark Badge** – For successful pull requests merged  
-- 🎓 **IEEE Student Member** – Active contributor at VIT Pune’s IEEE branch  
+- 🎓 **IEEE Student Member** – Active contributor at VIT Pune’s IEEE branch
+- 🏆 **Holopin Badges**
+[![@prathamtomar99's Holopin board](https://holopin.me/prathamtomar99)](https://holopin.io/@prathamtomar99)
 
 ---
 
