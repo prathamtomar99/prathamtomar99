@@ -26,18 +26,6 @@
 
 ---
 
-## 🏆 GitHub Trophy Wall
-[![trophy](https://github-profile-trophy.vercel.app/?username=prathamtomar99&theme=algolia&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📊 My GitHub Stats
-
-![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathamtomar99&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamtomar99&layout=compact&theme=tokyonight)
-
----
-
 ### 🏆 Achievements & Badges
 
 - 🦈 **Pull Shark Badge** – For successful pull requests merged  
@@ -49,7 +37,7 @@
 
 ### 🏹 Competitive Programming Profiles
 
-- 🧩 [LeetCode](https://leetcode.com/u/_pratham9914/) – *1750+ rating*  
+- 🧩 [LeetCode](https://leetcode.com/u/_pratham9914/) – *1850+ rating*  
 - 🔗 [Codeforces](https://codeforces.com/profile/_pratham9914) – *Active participant*  
 
 ---
