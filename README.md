@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 💡 Passionate about **problem solving** and **writing clean, efficient code**  
-- 🧩 Regular participant on **LeetCode (1750+ rating)** and **Codeforces**  
+- 🧩 Regular participant on **LeetCode (1850+ rating)** and **Codeforces**  
 - 🧠 Strong foundation in **Data Structures & Algorithms**  
 - 🌱 Exploring **backend development** and **system design**  
 - ⚙️ Always learning, always improving 🚀
