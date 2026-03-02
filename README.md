@@ -19,9 +19,10 @@ My primary focus is **Competitive Programming** and **System Design**. I have a 
 
 ### 📊 Stats & Achievements
 
-* **LeetCode:** [1950+ Rating](https://leetcode.com/u/_pratham9914/) (Top % percentile)
+* **LeetCode:** [1950+ Rating](https://leetcode.com/u/_pratham9914/)
 * **Open Source:** Pull Shark Badge holder
 * **Community:** IEEE Student Member (VIT Pune)
+* **Hacktoberfest Finisher:** Successfully merged 8-10 quality Pull Requests across various repositories, earning official Holopin badges and the exclusive event T-shirt.
 
 [![@prathamtomar99's Holopin board](https://holopin.me/prathamtomar99)](https://holopin.io/@prathamtomar99)
 
