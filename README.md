@@ -12,7 +12,7 @@ I enjoy building systems that combine problem-solving, backend engineering, and 
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🎓 B.Tech student at **VIT Pune** (Graduating 2027)
 - 💼 **Software Engineering Intern** at **Barclays** (June 2026 – July 2026)
@@ -22,7 +22,7 @@ I enjoy building systems that combine problem-solving, backend engineering, and 
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**<br>
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -47,7 +47,7 @@ I enjoy building systems that combine problem-solving, backend engineering, and 
 
 ---
 
-### 💻 Featured Projects
+### Featured Projects
 
 * **Polyglot Fuzzer (MetaCall):** Developed and tested fuzzer logic and deployment workflows for polyglot applications using MetaCall FaaS.
 * **EDF Goal Planner:** Implemented a goal-based planning agent utilizing Earliest Deadline First (EDF) scheduling logic.
@@ -56,16 +56,16 @@ I enjoy building systems that combine problem-solving, backend engineering, and 
 
 ---
 
-### 🏆 Achievements & Milestones
+### Achievements & Milestones
 
-* 📈 Peak **1950+ rating on LeetCode**
-* 🌍 **Hacktoberfest Finisher** with multiple successful open-source contributions
-* 🏅 Recognized on Holopin for community engagements:
+* Peak **1950+ rating on LeetCode**
+* **Hacktoberfest Finisher** with multiple successful open-source contributions
+* Recognized on Holopin for community engagements:
 <br>[![@prathamtomar99's Holopin board](https://holopin.me/prathamtomar99)](https://holopin.io/@prathamtomar99)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   
@@ -75,7 +75,7 @@ I enjoy building systems that combine problem-solving, backend engineering, and 
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 <div align="center">
 
